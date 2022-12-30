@@ -1,0 +1,43 @@
+{
+  "theme_color": "#171717",
+  "background_color": "#b6d2ff",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "author": "Taufik Crisnawan Santosa",
+  "name": "taufikcrisnawan.dev",
+  "app_name": "taufikcrisnawan.dev",
+  "short_name": "Taufik Crisnawan",
+  "description": "Personal Website, Online Portfolio And Blog, Built On Top Of NEXT.js, An Online Space For Taufik To Share His Knowledge And Experience.",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
